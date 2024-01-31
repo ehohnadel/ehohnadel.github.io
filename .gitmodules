@@ -1,0 +1,3 @@
+[submodule "themes/kodama-theme"]
+	path = themes/kodama-theme
+	url = git@github.com:ehohnadel/kodama-theme.git
