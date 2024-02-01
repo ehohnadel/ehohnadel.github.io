@@ -1,7 +1,7 @@
 title = "Emile Hohnadel"
 
 # The URL the site will be built for
-base_url = "https://example.com"
+base_url = "https://ehohnadel.github.io/"
 
 theme = "kodama-theme"
 
