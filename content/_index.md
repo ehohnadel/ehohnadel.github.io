@@ -40,7 +40,7 @@ interests = []
   link = "https://github.com/ehohnadel"
 [[extra.avatar_icons]]
   icon = "resume"
-  link = "CV.pdf"
+  link = "/files/CV.pdf"
 +++
 
 Hello, my name is Emile Hohnadel and this is my personal webpage.

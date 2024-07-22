@@ -6,7 +6,7 @@ page_template = "publication-page.html"
 
 extra.publications_types = [
   { title = "Journal articles", type = "journals" },
-#   { title = "Thesis", type = "thesis" },
+  # { title = "Thesis", type = "thesis" },
   # { title = "Conferences and workshops ", type = "conferences" },
   # { title = "Preprints", type = "preprint" }
 ]
